@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <ModBuildFolder>mod/yourmodname</ModBuildFolder>
+    <ModBuildFolder>mod/HungryCreatures</ModBuildFolder>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,9 +1,9 @@
 {
-    "id": "yourname.yourmodname",
-    "name": "Your Mod Name",
+    "id": "zipzapchap.HungryCreatures",
+    "name": "HungryCreatures Mod",
     "version": "0.1.0",
-    "authors": "Your Name",
-    "description": "This is a Rain World mod template",
+    "authors": "zipzapchap   ",
+    "description": "This is a Rain World mod which changes certain creature noises to hungry spider sounds! Enjoy ;)",
     "requirements": [],
     "requirements_names": [],
     "tags": [],
